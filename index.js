@@ -30,16 +30,15 @@ function getAge(birthdayValue) {
   else if(age>10 && age<18){
     alert("Have fun, but gotta study tho !");
   }
-  else if(age>18 && age<19){
+  else if(age>18 && age<21){
     alert("Nahuh still not legal to sip a drink XD");
   }
-  else if(age>19 && age<60){
+  else if(age>21 && age<60){
     alert("Age of Wisdom, keep going !");
   }
   else {
     alert("Enlighten others with your experience of life : )");
   }
-
   return age;
 }
 
