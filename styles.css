@@ -31,5 +31,9 @@ button:hover{
 p{
     font-weight:bold;
     font-size:1.2rem;
-
 }
+#result{
+    margin-top:10px;
+}
+
+
